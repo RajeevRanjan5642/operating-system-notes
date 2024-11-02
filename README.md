@@ -24,6 +24,14 @@ Ans: Multiprogramming a technique where multiple programs are loaded into the ma
 ## 6. What is multitasking?
 Ans: Multitasking is a technique that allows multiple tasks or processes to run concurrently on a single CPU. The CPU time is divided among the tasks giving the illusion of parallel execution. Multitasking is used in modern operating systems to provide responsiveness and the ability to run multiple applications simultaneously.
 
+## 7. What is a program?
+Ans: A program is a set of instructions written in a programming language that performs a specific task or set of tasks. A program is typically stored in a file on disk and represents an executable entity. Programs can either be compiled or interpreted depending upon the type of programming language.
+
+## 8. What is a process?
+Ans: A process is an instance of program in execution. When a program is loaded into main memory and executed, then it becomes a process. A process is an independent entity with its own memory space, resources and execution context. It has its own program counter and stack. Processes can be concurrent and can communicate with each other through inter-process communication.
+
+## 9. What is a thread?
+Ans: A thread is a lightweight unit of execution within a process. It represents a sequence of instructions that can be scheduled and executed independently. Threads share the same memory space and resources within a process. However, each thread has its own program counter and stack. Multiple threads within a process can run concurrently, allowing for parallel execution of tasks.
 
 
 
