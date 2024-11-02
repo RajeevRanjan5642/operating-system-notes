@@ -10,7 +10,7 @@ Ans: An operating system is a software that acts as an interface between compute
 4. Unix : multi-user OS
 5. Android : Google, open-source
 6. iOS : Apple
-7. RTOS
+7. RTOS : Real Time Operating Systems
 
 ## 3. What is multiprocessing?
 Ans: Multiprocessing refers to the concurrent execution of multiple processes on a system with multiple cpus or cpu cores. Each process has its own memory space and resources. Multiprocessing aims at increasing the system's throughput and provides faster execution by distributing the workload across multiple processors.
