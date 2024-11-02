@@ -22,7 +22,9 @@ Ans: Multithreading refers to concurrent execution of multiple threads within a 
 Ans: Multiprogramming a technique where multiple programs are loaded into the main memory simultaneously and CPU switches between them to execute instructions. The main purpose of multiprogramming is to maximize CPU utilization and to keep CPU busy by quickly switching between different programs when one is waiting for I/O or other operations. Each program has it's own separate memory space.
 
 ## 6. What is multitasking?
-Ans: Multitasking is a technique that allows multiple tasks or processes to run concurrently on a single CPU. The CPU time is divided among the tasks giving the illusion of parallel execution. 
+Ans: Multitasking is a technique that allows multiple tasks or processes to run concurrently on a single CPU. The CPU time is divided among the tasks giving the illusion of parallel execution. Multitasking is used in modern operating systems to provide responsiveness and the ability to run multiple applications simultaneously.
+
+
 
 
 
